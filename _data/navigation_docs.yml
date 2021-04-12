@@ -1,3 +1,11 @@
+- title: Introduction
+  docs:
+  - section-1
+  
+- title: Committee Members
+  docs:
+  - section-2a
+  
 - title: Getting Started
   docs:
   - installation
