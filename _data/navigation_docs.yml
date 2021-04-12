@@ -1,44 +1,9 @@
 - title: Introduction
   docs:
-  - section-1
+  - introduction-1
   
 - title: Committee Members
   docs:
-  - section-2a
-  
-- title: Getting Started
-  docs:
-  - installation
-  - setup
-  - navigation
-  - footer
-  - posts
-  - docs
-  - comments
-  - analytics
+  - committee-members-1
 
-- title: Theme Features
-  docs:
-  - hero
-  - boxes
-  - featured
-  - videos
-  - faq
-  - team
-  - cta
-  - changelog
-  - contact
-  - media
-  - toc
-  - alerts
 
-- title: Customization
-  docs:
-  - translation
-  - customize
-  - development
-  - sources
-
-- title: Help
-  docs:
-  - support
