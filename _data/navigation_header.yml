@@ -4,33 +4,34 @@ left:
   - title: Home
     url: /
 
-  - title: Docs
+  - title: Guidance
     url: /docs/installation/
 
-  - title: Blog
-    url: /blog/
+#  - title: Blog
+#    url: /blog/
 
-  - title: Changelogs
-    dropdown:
+#  - title: Changelogs
+#    dropdown:
 
-      - title: Timeline Style
-        url: /changelog-timeline/
+#      - title: Timeline Style
+#        url: /changelog-timeline/
 
-      - title: Post Style
-        url: /changelog-posts/
+#      - title: Post Style
+#        url: /changelog-posts/
 
 
 # Navbar right menu navigation links
+# Removing changelog / contact nav links
 
 right:
 
-  - title: Changelog
-    url: /changelog-timeline/
-    button: primary-outline
+#  - title: Changelog
+#    url: /changelog-timeline/
+#    button: primary-outline
 
-  - title: Contact
-    url: /contact/
-    button: success
+#  - title: Contact
+#    url: /contact/
+#    button: success
 
   # - title: Changelog
   #   url: /contact/
