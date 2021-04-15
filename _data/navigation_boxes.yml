@@ -2,32 +2,32 @@
 
 - title: Committee Members
   desc: Get started fast with installation and theme setup instructions
-  icon: cog
-  doc: installation
+  icon: users
+  doc: committee-members-1
 
 - title: Committee Functions & Powers
   desc: Lean about all the theme options, features and how to use them
-  icon: settings
+  icon: cog
   doc: hero
 
 - title: Committee Meetings
   desc: Get help or tailor the theme to your specific requirements
-  icon: code
+  icon: comments
   doc: customize
   
 - title: Planning Committee Programs
   desc: Get started fast with installation and theme setup instructions
-  icon: cog
+  icon: calendar
   doc: installation
 
 - title: Committee Resources
   desc: Lean about all the theme options, features and how to use them
-  icon: settings
+  icon: bookmark
   doc: hero
 
 - title: Appendix
   desc: Get help or tailor the theme to your specific requirements
-  icon: code
+  icon: info
   doc: customize
   
 
