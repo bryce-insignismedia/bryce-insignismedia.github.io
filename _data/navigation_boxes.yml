@@ -8,26 +8,26 @@
 - title: Committee Functions & Powers
   desc: Lean about all the theme options, features and how to use them
   icon: cog
-  doc: hero
+  doc: committee-functions-1
 
 - title: Committee Meetings
   desc: Get help or tailor the theme to your specific requirements
   icon: comments
-  doc: customize
+  doc: committee-meetings-1
   
 - title: Planning Committee Programs
   desc: Get started fast with installation and theme setup instructions
   icon: calendar
-  doc: installation
+  doc: planning-programmes-1
 
 - title: Committee Resources
   desc: Lean about all the theme options, features and how to use them
   icon: bookmark
-  doc: hero
+  doc: committee-resources-1
 
 - title: Appendix
   desc: Get help or tailor the theme to your specific requirements
   icon: info
-  doc: customize
+  doc: appendix-1
   
 
