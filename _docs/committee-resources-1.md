@@ -6,6 +6,9 @@ author: bryce
 ---
 
 <h3><span>Committee staff</span></h3>
+
+<img src="https://387d55a3a0574af3beeafea9b696a716.vfs.cloud9.us-east-2.amazonaws.com/uploads/docs-banner-5.jpg" alt="Banner" width="755" height="263">
+
 <ol>
 <li aria-level="2"><span>Each committee is supported by a committee clerk and two support staff, who are members of the parliamentary service of the Majlis.&nbsp; The clerk will work to support the chairperson in managing the committee&rsquo;s programme and delivering its workplan, but is also available &ndash; as far as their time permits - to assist and advise other members of the committee.&nbsp;&nbsp;</span></li>
 <li aria-level="2"><span>The staff team will:</span></li>

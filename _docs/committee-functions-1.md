@@ -5,8 +5,11 @@ tags: featured
 author: bryce
 ---
 
+<img src="https://387d55a3a0574af3beeafea9b696a716.vfs.cloud9.us-east-2.amazonaws.com/uploads/docs-banner-2.jpg" alt="Banner" width="755" height="263">
+
 <h2><span>Committee functions and powers</span></h2>
 <h3><span>Committee functions</span></h3>
+
 <ol>
 <li aria-level="2"><span>Committees are of two types:&nbsp; standing committees (which are established on a permanent basis) and select committees (which are established on a temporary basis to carry out a particular task).</span><span> Most standing committees are responsible for oversight of government institutions, but some are responsible for aspects of parliamentary work, such as the procedure of the Majlis and petitions.</span><span>&nbsp; (See Appendix &hellip; for a list of Majlis Committees.)</span></li>
 <li aria-level="2"><span>The purpose of each committee is set out in the Standing Orders.&nbsp; Each committee is free to interpret its own mandate, within the terms of its founding Standing Order, and to determine its own business, subject to any direction from the Majlis or from the Speaker.&nbsp;&nbsp;</span></li>

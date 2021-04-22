@@ -5,7 +5,10 @@ tags: featured
 author: bryce
 ---
 
+<img src="https://387d55a3a0574af3beeafea9b696a716.vfs.cloud9.us-east-2.amazonaws.com/uploads/docs-banner-6.jpg" alt="Banner" width="755" height="263">
+
 <h3><span>Programme planning for the Parliament </span></h3>
+
 <ol>
 <li aria-level="2"><span>The Standing Orders require committees to draw up a workplan, showing how they will carry out oversight of their area of Government.</span><span>&nbsp; It can be useful for committees to discuss what they wish to achieve during the Parliament, and how they wish to prioritise their time. And having a plan in place helps to ensure that the committee covers the range of its responsibilities. However, it is important that the plan is sufficiently flexibly to allow the committee to respond to events, and to review its priorities from time to time.</span></li>
 <li aria-level="2"><span>The Standing Orders state that, when putting together their workplan, committees should consider:</span></li>
