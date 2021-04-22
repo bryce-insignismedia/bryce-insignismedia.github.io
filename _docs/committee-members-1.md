@@ -5,7 +5,7 @@ tags:
 author: bryce
 ---
 
-<img src="https://387d55a3a0574af3beeafea9b696a716.vfs.cloud9.us-east-2.amazonaws.com/uploads/docs-banner-4.jpg" alt="Banner" width="755" height="263">
+<img src="../../uploads/docs-banner-4.jpg" alt="Banner" width="755" height="263">
 
 <h2>Appointment</h2>
 
