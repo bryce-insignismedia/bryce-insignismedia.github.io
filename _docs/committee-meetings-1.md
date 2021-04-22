@@ -1,7 +1,7 @@
 ---
 title: Time, Location & Purpose of Meetings
 subtitle: Understanding how to use the committee guidance for the Maldives Parliament
-tags: 
+tags: featured
 author: bryce
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Committee functions, powers & joint working
 subtitle: Understanding how to use the committee guidance for the Maldives Parliament
-tags: 
+tags: featured
 author: bryce
 ---
 

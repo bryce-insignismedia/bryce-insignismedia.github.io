@@ -1,7 +1,7 @@
 ---
 title: Program Planning for the Parliament
 subtitle: Understanding how to use the committee guidance for the Maldives Parliament
-tags: 
+tags: featured
 author: bryce
 ---
 
