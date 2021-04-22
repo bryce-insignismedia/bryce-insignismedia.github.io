@@ -23,7 +23,7 @@ left:
 # Navbar right menu navigation links
 # Removing changelog / contact nav links
 
-right:
+#right:
 
 #  - title: Changelog
 #    url: /changelog-timeline/
