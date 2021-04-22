@@ -1,7 +1,7 @@
 ---
 title: Investigations & Launching Inquiries
 subtitle: Understanding how to use the committee guidance for the Maldives Parliament
-tags: 
+tags: featured
 author: bryce
 ---
 

@@ -5,7 +5,10 @@ tags:
 author: bryce
 ---
 
+<img src="https://387d55a3a0574af3beeafea9b696a716.vfs.cloud9.us-east-2.amazonaws.com/uploads/docs-banner-4.jpg" alt="Banner" width="755" height="263">
+
 <h2>Appointment</h2>
+
 <ol>
 <li>Committee members are formally appointed to the committee by resolution of the Majlis.&nbsp; Standing committee members are appointed for the duration of the Parliament unless they change parties. Select committees are appointed for the duration of the committee.</li>
 <li>The number of members, and party balance, on each committee is decided by the Majlis at the beginning of each Parliament, taking into account the party proportions in the Majlis and the level of interest in each committee.</li>
