@@ -4,7 +4,7 @@ width: expand
 hero:
     title: Committee Guidance for the Maldives Parliament
     subtitle: Learn practical skills for running effective committees 
-    image: wfd_logo.png
+    image: 
     search: true
 ---
 
