@@ -140,4 +140,5 @@ defaults:
       type:         docs
     values:
       layout:       doc
+      permalink:    en/docs/:title
 
