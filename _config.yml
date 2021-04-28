@@ -121,6 +121,8 @@ sass:
 collections:
   docs:
     output:         true
+  mv:
+    output:         true
   faqs:
     output:         false
   changelogs:
@@ -140,4 +142,9 @@ defaults:
       type:         docs
     values:
       layout:       doc
+  - scope:
+      path:         ""
+      type:         mv
+    values:
+      layout:       doc    
 
