@@ -261,8 +261,8 @@ $navbar-dropbar-z-index:                         $global-z-index - 20 !default;
 
 /* Active */
 .uk-navbar-nav > li.uk-active > a {
-    color: $navbar-nav-item-active-color;
-    @if(mixin-exists(hook-navbar-nav-item-active)) {@include hook-navbar-nav-item-active();}
+    // color: $navbar-nav-item-active-color;
+    // @if(mixin-exists(hook-navbar-nav-item-active)) {@include hook-navbar-nav-item-active();}
 }
 
 
