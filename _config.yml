@@ -146,5 +146,5 @@ defaults:
       path:         ""
       type:         mv
     values:
-      layout:       doc    
+      layout:       mv    
 
