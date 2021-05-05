@@ -1,18 +1,25 @@
 ---
-title: Using the Committee Guidance 
-subtitle: Understanding how to use the committee guidance for the Maldives Parliament
+title: ފަށާބަސް – މަޖިލީހުގެ ރައީސް 
+subtitle: 
 tags: 
 author: bryce
 
 ---
 
 
+
 <img src="https://387d55a3a0574af3beeafea9b696a716.vfs.cloud9.us-east-2.amazonaws.com/uploads/docs-banner-1.jpg" alt="Banner" width="755" height="263">
 
+<div dir="rtl">
+
+<h3>ތައާރަފު</h3>
+
 <ol>
-<li><span >This guidance is intended as a practical user-guide for Members of the Majlis who are appointed to committees.&nbsp; It is also intended to be useful for committee staff, and for others who are interested in how committees work.&nbsp;</span></li>
-<li><span >Committee work is a vital part of a thriving parliamentary democracy.&nbsp; Committees allow the Majlis to carry out a range of work on behalf of the public.&nbsp; Some committees carry out oversight of Government; others have responsibility for parliamentary matters.</span></li>
-<li><span>Committee work provides a great opportunity for Members of the Majlis to work together across party lines in the public interest, to acquire expertise, to gain public and media profile, and to have a positive impact on good government in Maldives.</span></li>
-<li><span>This Committee guideline has been developed by the staff of the Majlis with the support from Westminster Foundation for Democracy.</span></li>
+<li>މި ލިޔުމަކީ ރައްޔިތުންގެ މަޖިލީހުގެ ކޮމިޓީތަކަށް އައްޔަންކުރެވިފައިވާ މެމްބަރުންގެ ބޭނުމަށް ތައްޔާރުކުރެވިފައިވާ ލިޔުމެކެވެ. ހަމައެހެންމެ ކޮމިޓީތަކުގެ މުވައްޒަފުންނަށާއި، ކޮމިޓީތަކުގެ މަސައްކަތްތަކާމެދު ޝައުގުވެރިވާ ފަރާތްތަކަށްވެސް ބޭނުންތެރި ލިޔުމެކެވެ.</li>
+<li>ކޮމިޓީތަކުގެ މަސައްކަތްތަކަކީ ކޮންމެ ހަރުދަނާ ބަރުލަމާނީ ޑިމޮކްރަސީއެއްގައިމެ މުހިންމު ދައުރެއް އަދާކުރާ މަސައްކަތެކެވެ. ކޮމިޓީތައް މެދުވެރިކޮށް މަޖިލީހުގެ ފަރާތުން ރައްޔިތުންގެ ފައިދާއަށް ގިނަގުނަ މަސައްކަތްތަކެއް ކުރުމަށް ފުރުސަތު ލިބިގެންދެއެވެ. ބައެއް ކޮމިޓީތަކުން ސަރުކާރުގެ މަސްއޫލިއްޔަތު އަދާކުރާ މިންވަރު ބަލާއިރު، އެހެން ކޮމިޓީތަކުން މަޖިލީހާބެހޭ މައްސަލަތައް ބަލައެވެ.</li>
+<li>ކޮމިޓީތަކުގެ މަސައްކަތްތަކަކީ އެކިއެކި ޕާޓީތަކަށް ނިސްބަތްވާ މެމްބަރުން އެކުގައި ގައުމީ މަސްލަހަތު އިސްކޮށް މަސައްކަތްކުރުމަށާއި، ތަޖުރިބާ ހޯދުމަށާއި، މީޑިއާ ޕްރޮފައިލް ރަނގަޅުކުރުމަށާއި، ހަރުދަނާކަމާއެކު ދައުލަތް ހިންގުމަށް ލިބޭ ފުރުސަތެކެވެ. </li>
+<li>މި ލިޔުން ތައްޔާރުކޮށްފައިވަނީ ވެސްޓްމިންސްޓަރ ފައުންޑޭޝަން ފޯރ ޑިމޮކްރަސީގެ ލަފައާއެކު މަޖިލީހުގެ މުވައްޒަފުންނެވެ. </li>
 </ol>
+
+</div>
 
