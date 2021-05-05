@@ -119,7 +119,7 @@ sass:
   style:            compressed
 
 collections:
-  docs:
+  en:
     output:         true
   mv:
     output:         true  
@@ -139,9 +139,9 @@ defaults:
   # _docs
   - scope:
       path:         ""
-      type:         docs
+      type:         en
     values:
-      layout:       doc
+      layout:       en
   - scope:
       path:         ""
       type:         mv

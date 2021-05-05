@@ -11,7 +11,7 @@
         {% endif %}
         
         <ul class="uk-list uk-list-large uk-margin-medium-top">
-        {% for doc in site.docs %}
+        {% for doc in site.en %}
             {% if doc.tags contains include.tag %}
             <li><a class="uk-box-shadow-hover-small" href="{{ site.baseurl }}{{ doc.url }}">{{doc.title}}</a></li>
             {% endif %}
