@@ -68,7 +68,25 @@
                 <div class="uk-navbar-right">
                     {% if site.navbar.search %}
                         {% unless page.hero%}
-                            <div>
+                            
+                                {% if page.url != '/' %}
+                                    {% if page.url contains "en" %}
+                             
+                                    <a href={{page.url | replace: "mv", "en"}}  ><img src="/uploads/united-kingdom-flag-button-square-icon-64.png" width=25 class="uk-navbar-language-icon-active"/> </a>
+                                    <a href={{page.url | replace: "en", "mv"}}  ><img src="/uploads/maldives-flag-button-square-icon-64.png" width=25 class="uk-navbar-language-icon" /> </a>
+                                    
+                                    {% endif %}
+                                    
+                                    {% if page.url contains "mv" %}
+                             
+                                    <a href={{page.url | replace: "mv", "en"}}  ><img src="/uploads/united-kingdom-flag-button-square-icon-64.png" width=25 class="uk-navbar-language-icon"/> </a>
+                                    <a href={{page.url | replace: "en", "mv"}}  ><img src="/uploads/maldives-flag-button-square-icon-64.png" width=25 class="uk-navbar-language-icon-active" /> </a>
+                                    
+                                    {% endif %}
+                                {% endif %}
+                            
+                            <div >
+                                
                                 <a id="search-navbar-toggle" class="uk-navbar-toggle" uk-search-icon href="#"></a>
                                 <div class="uk-drop uk-background-default uk-border-rounded" uk-drop="mode: click; pos: left-center; offset: 0">
                                     <form class="uk-search uk-search-navbar uk-width-1-1" onsubmit="return false;">

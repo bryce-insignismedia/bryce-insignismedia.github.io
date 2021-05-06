@@ -55,6 +55,7 @@ $card-default-background:                       $global-muted-background !defaul
 $card-default-color:                            $global-color !default;
 $card-default-title-color:                      $global-emphasis-color !default;
 $card-default-hover-background:                 darken($card-default-background, 5%) !default;
+$card-mv-link-hover-color:                      #3cc !default;
 
 $card-primary-background:                       $global-primary-background !default;
 $card-primary-color:                            $global-inverse-color !default;
@@ -220,6 +221,19 @@ $card-large-footer-padding-vertical-l:          round($global-large-gutter / 2) 
 
 /* Style modifiers
  ========================================================================== */
+
+/*
+ * MV Link text decoration
+ */
+ 
+.uk-mv-link{
+    text-decoration: underline;
+}
+
+.uk-mv-link:hover{
+    color: $card-mv-link-hover-color;
+    transition: all 0.1s ease-in-out;
+}
 
 /*
  * Default
