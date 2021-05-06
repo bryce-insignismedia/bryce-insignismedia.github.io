@@ -72,13 +72,15 @@
                                 {% if page.url != '/' %}
                                     {% if page.url contains "en" %}
                              
-                                    <a href={{page.url | replace: "en", "mv"}}  ><img src="/uploads/maldives-flag-button-square-icon-64.png" width=25 /> </a>
+                                    <a href={{page.url | replace: "mv", "en"}}  ><img src="/uploads/united-kingdom-flag-button-square-icon-64.png" width=25 class="uk-navbar-language-icon-active"/> </a>
+                                    <a href={{page.url | replace: "en", "mv"}}  ><img src="/uploads/maldives-flag-button-square-icon-64.png" width=25 class="uk-navbar-language-icon" /> </a>
                                     
                                     {% endif %}
                                     
                                     {% if page.url contains "mv" %}
                              
-                                    <a href={{page.url | replace: "mv", "en"}}  ><img src="/uploads/united-kingdom-flag-button-square-icon-64.png" width=25 /> </a>
+                                    <a href={{page.url | replace: "mv", "en"}}  ><img src="/uploads/united-kingdom-flag-button-square-icon-64.png" width=25 class="uk-navbar-language-icon"/> </a>
+                                    <a href={{page.url | replace: "en", "mv"}}  ><img src="/uploads/maldives-flag-button-square-icon-64.png" width=25 class="uk-navbar-language-icon-active" /> </a>
                                     
                                     {% endif %}
                                 {% endif %}
