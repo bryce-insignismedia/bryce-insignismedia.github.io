@@ -3,14 +3,14 @@ layout: page
 width: expand
 hero:
     title: Committee Guidance for the Maldives Parliament
-    subtitle: Learn practical skills for running effective committees 
+    subtitle: 2021 version for application and feedback 
     image: 
     search: true
 ---
 
-{% include boxes.html columns="3" title="Guidance Topics" subtitle="Chose an option that you need help with or search above" %}
+{% include boxes.html columns="3" title="Guideline Sections" subtitle="Chose an option that you need help with or search above" %}
 
-{% include featured.html tag="featured" title="Helpful Articles" subtitle="Quick access to important sections of the Guidance" %}
+{% include featured.html tag="featured" title="Helpful Sections" subtitle="Quick access to important sections of the Guidance" %}
 
 {% comment %}
 
