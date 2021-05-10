@@ -5,34 +5,44 @@ tags:
 author: bryce
 ---
 
-<h3><span>Procedure in committee</span></h3>
+<h2>ކޮމިޓީގެ އިޖުރާއަތްތައް</h2>
+
 <ol>
-<li aria-level="2">Wherever possible, committees should operate by consensus.&nbsp; A divided committee is likely to be less effective. Where there is a consensus, it is possible for committees to operate informally, without need for motions to be moved formally or for voting.&nbsp; This saves time and helps to maintain a sense of common purpose and team spirit. Even if there are differences of views on the committee, it may be possible to resolve these informally or for the majority view to be accepted without voting.</li>
-<li aria-level="2">That said, it is good practice, and in the interests of transparency, for committees to decide certain matters formally and for these decisions to be recorded. These include:</li>
+<li>ކޮމިޓީގެ ނިންމުންތައް ނިންމުމުގައި ވީވަރަކުން މަސައްކަތްކުރަންވާނީ ހުރިހާ މެމްބަރުންގެ އެއްބަސްވުމާއެކުގައެވެ. ދެބައިވެފައިވާ ކޮމިޓީއަކަށް މަސައްކަތްތައް ހަރުދަނާކަމާއެކު ކުރިއަށް ނުގެންދެވޭނެއެވެ. ހުރިހާ މެމްބަރުންގެ އެއްބަސްވުމާއެކު ކަންކކަން ކުރިއަށްގެންދާނަމަ، ކޮމިޓީގެ ރަސްމީ ވޯޓަށް އެހުމަކާނުލާ، ނުރަސްމީކޮށްވެސް މަސައްކަތް ކުރިއަށް ގެންދެވޭނެއެވެ. އެއާއެކު ވަގުތު ސަލާމަތްކުރެވި، ކޮމިޓީގެ މެދުގައި އެއް އަމާޒަކަށް އެކުގައި މަސައްކަތްކުރުމުގެ ރޫހު އާލާވެގެންދެއެވެ. އަދި ކޮމިޓީގެ މެދުގައި ހިޔާލު ތަފާތުވިޔަސް، މައްސަލަތައް ނުރަސްމީކޮށް ހައްލުކުރެވި، ނުވަތަ ރަސްމީ ވޯޓަކާނުލާ ގިނަ މެމްބަރުންގެ ހިޔާލަށް އެއްބަސްވުމުގެ ފުރުސަތު ލިބިގެންދެއެވެ. </li>
+</ol>
+
+<ol start="2">
+<li>މިހެން ކަން އޮތްނަމަވެސް، ހާމަކަމާއެކު މަސައްކަތް ކުރިއަށް ގެންދިއުމުގެ ބޭނުމަށް ބައެއް ކަންކަން ރަސްމީ ވޯޓަކުން ނިންމައި، އެ ނިންމުން ރިކޯޑުކުރުމަކީ އެންމެ އެކަށީގެންވާ ގޮތެވެ. މިފަދަ ކަންކަމުގެ ތެރޭގައި އަންނަނިވި ކަންކަން ހިމެނެއެވެ: </li>
 </ol>
 <ul>
-<li aria-level="2"><span>Agreement of reports</span></li>
-<li aria-level="2"><span>Agreement of bills, and decisions on amendments to bills</span></li>
-<li aria-level="2"><span>Decisions on proposed appointments</span></li>
-<li aria-level="2"><span>Decisions which will lead to spending public money&nbsp;</span></li>
+<li>ރިޕޯޓުތައް އެއްބަސްކުރުން</li>
+<li>ބިލު އަދި ބިލުތަކަށް ގެންނަން ބޭނުންވާ އިސްލާހުތައް އެއްބަސްކުރުން</li>
+<li>މަގާމުތަކަށް އައްޔަނުކުރުމަށް ހުށަހެޅުފައިވާ ނަން ފާސްކުރުން</li>
+<li>ދައުލަތުގެ ފައިސާއާގުޅޭ ކަންކަމާބެހޭ ނިންމުންތައް </li>
+<li>///</li>
 </ul>
 <ol start="3">
-<li aria-level="2"><span>Usually these decisions are made without a vote. &nbsp; However, on occasions &ndash; either where the majority view is unclear or a member wishes to record their opposition to the majority view &ndash; the committee may need to vote.&nbsp; The chairperson does not take part in voting, but has a casting vote if the numbers are equal.</span><span>&nbsp; It is open to the chairperson to postpone a vote until more members are present.</span></li>
-<li aria-level="2"><span>If voting is required, the usual practice is as follows [check]:</span></li>
+<li>އާންމުގޮތެއްގައި މި ނިންމުންތައް ނިންމަނީ ވޯޓަކާނުލައެވެ. ނަމަވެސް ބައެއް ހާލަތްތަކުގައި – ގިނަ މެމްބަރުންގެ ވިސްނުންހުރި ގޮތް ސާފުނުވާ ހާލަތްތައް ނުވަތަ ކޮމިޓީގެ މެމްބަރެއްގެ ވިސްނުން އަޣުލަބިއްޔަތާ ހިލާފުކަން ރިކޯޑުން ސާބިތުކުރުމަށް ބޭނުންވާ ހާލަތްތަކުގައި – ކޮމިޓީއިން ވޯޓަކަށް އަހަންޖެހިދާނެއެވެ. ކޮމިޓީގެ މުގައްރިރު ވޯޓުގައި ބައިވެރިވާނީ ހަމައެކަނި ދެފަރާތަށް އެއްވަރަކަށް ވޯޓުލިބި ގޮތެއް ނިންމުމަށް މުގައްރިރުގެ ވޯޓު ބޭނުންވާ ހާލަތްތަކަގައެވެ. އިތުރު މެމްބަރުން ހާޒިރުވަންދެން ކޮމިޓީގެ ވޯޓެއް ލަސްކުރުމުގެ އިހުތިޔާރު މުގައްރިރަށް ލިބިގެންވެއެވެ. </li>
+<li>ވޯޓަކަށް އަހާނަމަ އާންމުގޮތެއްގައި އަމަލުކުރަނީ އަންނަނިވި އުސޫލުތަކާ އެއްގޮތަށެވެ: </li>
 </ol>
 <ul>
-<li aria-level="2"><span>A member proposes a question</span></li>
-<li aria-level="2"><span>The chairperson puts the question and asks Members to raise their hands, firstly if they wish to vote for the question and secondly if they wish to vote against</span></li>
-<li aria-level="2"><span>Members may abstain if they wish.</span></li>
-<li aria-level="2"><span>The clerk records the numbers voting each way</span></li>
-<li aria-level="2"><span>The chairperson reads the result and declares that Ayes or Noes have won.&nbsp;</span></li>
+<li>ކޮމިޓީއަށް މެމްބަރުން ސުވާލެއް ހުށަހެޅުން</li>
+<li>މުގައްރިރު ކޮމިޓީއަށް ސުވާލު ހުޅުވާލައި، ފުރަތަމަ އެއްކޮޅަށް ވޯޓުލުމަށް އެދޭނަމަ އަތްނެގުމަށް، އެއަށްފަހު ދެކޮޅަށް ވޯޓުލުމަށް އެދޭނަމަ އަތް ނެގުމަށް އެހުން </li>
+<li>މެމްބަރުން ބޭނުންނަމަ ވަކި ކޮޅަކަށް ވޯޓު ނުދިނުމުގެ އިހުތިޔާރު ލިބިގެންވެއެވެ. </li>
+<li>ކޮމިޓީގެ އިދާރީ މުވައްޒަފު މެމްބަރުން ވޯޓުދިން ގޮތް ރިކޯޑުކުރުން </li>
+<li>މުގައްރިރު ވޯޓުގެ ނަތީޖާއާއެކު، ވޯޓުން ފާސްވި ގޮތް ހާމަކުރުން </li>
 </ul>
-<h3><span>Record of Committee&rsquo;s decisions</span></h3>
+
+<h2>ކޮމިޓީގެ ނިންމުންތަކުގެ ރިކޯޑު</h2>
+
 <ol start="5">
-<li aria-level="2"><span>An audio recording will be made of each committee meeting and a transcript will be provided and published.&nbsp; In addition the clerk will provide a summary of the proceedings, highlighting the decisions made</span><span>.</span><span>&nbsp;&nbsp;</span></li>
+<li>ކޮންމެ ކޮމިޓީ ބައްދަލުވުމެއްގެ އޯޑިއޯ ރިކޯޑުކޮށް އަދި ދެކެވުނު ވާހަކަތަކުގެ ލިޔުމުގެ ރިކޯޑު ހާމަކުރެވޭނެއެވެ. އަދި ކޮމިޓީގެ އިދާރީ މުވައްޒަފު ބައްދަލުވުން ހިނގާދިޔަގޮތުގެ ހުލާސާއަކާއި ނިންމި ނިންމުންތައް ފާހަގަކޮށްފައިވާ ލިޔުމެއް ހާމަކުރާނެއެވެ. </li>
 </ol>
-<h3><span>Informal meetings</span></h3>
+
+<h2>ނުރަސްމީ ބައްދަލުވުންތައް</h2>
+
 <ol start="6">
-<li aria-level="2"><span>In addition to formal meetings of the committee, the chairperson can conduct informal/unofficial meetings, to prepare for committee meetings, to discuss a matter, or for committee training.</span><span> &nbsp; These informal meetings may take place both at the Majlis and elsewhere, as part of fact-finding field visits. &nbsp; Matters requiring a decision of the committee cannot be agreed at an informal meeting, and parliamentary privilege does not apply. There is no requirement for a quorum to be present for informal meetings, and they are not required to be open to the public or the media.</span><span>&nbsp;&nbsp;</span></li>
-<li aria-level="2">It is open to two or more committees to hold joint informal meetings. For example, committees met together&nbsp;to agree Code of Conduct / benchmarks.</li>
+<li>ކޮމިޓީގެ ރަސްމީ ބައްދަލުވުންތަކުގެ އިތުރުން، ކޮމިޓީގެ ރަސްމީ ބައްދަލުވުންތަކަށް ތައްޔާރުވުމުގެ ގޮތުން، ނުވަތަ މައްސަލައަކާ ގުޅޭގޮތުން މަޝްވަރާކުރުމަށް، ނުވަތަ ކޮމިޓީގެ ތަމްރީނަކަށް، ނުރަސްމީ ބައްދަލުވުންތައް މުގައްރިރަށް ކުރިއަށް ގެންދެވިދާނެއެވެ. މިގޮތަށް  ބާއްވާ ނުރަސްމީ ބައްދަލުވުންތައް މަޖިލީހުގައި ނުވަތަ އެހެން ތަނެއްގައި ނުވަތަ ބަޔާންހޯދުމަށް ކުރެވޭ ޒިޔާރަތެއްގައިވެސް ބޭއްވިދާނެއެވެ. ކޮމިޓީގެ ނިންމުމަކަށް ބޭނުންވާ ކަމެއް މިފަދަ ނުރަސްމީ ބައްދަލުވުމެއްގައި ނުނިންމޭނެއެވެ. އަދި މަޖިލީހުގެ އިމްތިޔާޒުވެސް މިފަދަ ބައްދަލުވުންތަކުގައި ނުހިނގާނެއެވެ. މިފަދަ ނުރަސްމީ ބައްދަލުވުންތަކުގައި ކޯރަމް ހަމަކުރާކަށް ނުޖެހޭނެއެވެ. އަދި އާންމު ރައްޔިތުންނަށާއި މީޑިއާއަށް ހުޅުވާލާކަށްވެސް ނުޖެހޭނެއެވެ. </li>
+<li>އެއް ކޮމިޓީއަށްވުރެ ގިނަ ކޮމިޓީއަކުން އެކުގައި ނުރަސްމީ ބައްދަލުވުން ބޭއްވިދާނެއެވެ. މިސާލަކަށް އަމަލުކުރާނެ އުސޫލުތައް ކަނޑައެޅުމަށް އެކުގައި ބައްދަލުކުރުން. </li>
 </ol>
+
