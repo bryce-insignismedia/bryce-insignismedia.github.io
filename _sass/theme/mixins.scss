@@ -552,12 +552,13 @@
 
     .section-hero {
         z-index: 10;
+        padding: 40px;
         .hero-search {
-            margin: 60px auto 0 auto;
+            margin: 40px auto 0 auto;
             .uk-search-input {
-                height: 80px;
+                height: 40px;
                 border-radius: 50px;
-                font-size: 1.25rem;
+                font-size: 1rem;
                 font-style: normal;
                 padding-left: 36px;
                 &:focus {
@@ -567,7 +568,7 @@
             .uk-search-icon {
                 width: 70px;
                 svg {
-                    width: 31px;
+                    width: 21px;
                     height: auto;
                 }
             }
@@ -575,7 +576,7 @@
         }
         .uk-text-lead {
             font-size: 1.25rem;
-            color: #686c7b;
+            color: #393d40;
         }
     }
 

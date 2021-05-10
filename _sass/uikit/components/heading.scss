@@ -16,7 +16,7 @@
 $heading-primary-font-size:                      $global-xxlarge-font-size !default;
 $heading-primary-line-height:                    1.2 !default;
 
-$heading-primary-font-size-m:                    3.75rem !default; // 54px
+$heading-primary-font-size-m:                    1.75rem !default; // 54px
 $heading-primary-line-height-m:                  1.1 !default;
 
 $heading-hero-font-size:                         4rem !default; // 64px
@@ -55,7 +55,7 @@ $heading-line-margin-horizontal:                 0.6em !default;
  ========================================================================== */
 
 .uk-heading-primary {
-    font-size: $heading-primary-font-size;
+    // font-size: $heading-primary-font-size-m;
     line-height: $heading-primary-line-height;
     @if(mixin-exists(hook-heading-primary)) {@include hook-heading-primary();}
 }
@@ -64,7 +64,7 @@ $heading-line-margin-horizontal:                 0.6em !default;
 @media (min-width: $breakpoint-medium) {
 
     .uk-heading-primary {
-        font-size: $heading-primary-font-size-m;
+        // font-size: $heading-primary-font-size-m;
         line-height: $heading-primary-line-height-m;
     }
 
