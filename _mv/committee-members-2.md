@@ -5,52 +5,66 @@ tags:
 author: bryce
 ---
 
-<h2><span>Responsibilities of the chairperson</span></h2>
+<h2>މުގައްރިރުގެ މަގާމުގެ މަސްއޫލިއްޔަތުތައް </h2>
 <ol>
-<li><span>The principal responsibilities of the chairperson, as set out in the Standing Orders, are:</span></li>
+<li>މަޖިލީހުގެ ގަވާއިދުގައިވާ ގޮތުގެ މަތިން ކޮމިޓީގެ މުގައްރިރުގެ މަސްއޫލިއްޔަތުތަކަކީ: </li>
 </ol>
 <ul>
-<li><span>Conducting committee meetings</span></li>
-<li><span>Taking initiative and maintaining the focus of the work.&nbsp;&nbsp;</span></li>
-<li><span>Ensuring timely completion of work without unreasonable delays.</span></li>
-<li><span>Obtaining the requisite information through the secretariat of the committee.</span></li>
-<li><span>Coordinating the work of the secretariat.</span></li>
-<li><span>Obtaining statistical data and other documents required for the work of the committee through the secretariat of the committee.</span></li>
-<li><span>Presiding over the meeting.</span></li>
-<li><span>Representing the committee where applicable.</span></li>
-<li><span>Communicating with the media on behalf of the committee.</span></li>
+<li>ކޮމިޓީގެ ބައްދަލުވުންތައް ހިންގުން</li>
+<li>މަސައްކަތުގެ އިސްނަގައި، މައުލޫއު ހިފެހެއްޓުން</li>
+<li>ލަސްވުމެއްނެތި ވަގުތުން ވަގުތަށް މަސައްކަތް ނިންމުން ކަށަވަރުކުރުން</li>
+<li>ކޮމިޓީގެ އިދާރާ މެދުވެރިކޮށް ބޭނުންވާ މައުލޫމާތުތައް ހޯދުން</li>
+<li>އިދާރާގެ މަސައްކަތްތައް ކޯޑިނޭޓުކުރުން</li>
+<li>ކޮމިޓީގެ މަސައްކަތްތަކަށް ބޭނުންވާ ތަފާސްހިސާބުތަކާއި އެހެނިހެން ލިޔެކިޔުންތައް ކޮމިޓީގެ އިދާރާ މެދުވެރިކޮށް ހޯދުން</li>
+<li>ބައްދަލުވުންތަކުގެ ރިޔާސަތު ބެލެހެއްޓުން</li>
+<li>ބޭނުންވާ ހާލަތްތަކުގައި މީޑިއާތަކުގައި ކޮމިޓީ ތަމްސީލުކުރުން</li>
+<li>ކޮމިޓީގެ ފަރާތުން ނޫސްވެރިންނާ މައުލޫމާތު ހިއްސާކުރުން</li>
 </ul>
+
 <ol start="2">
-<li><span>It is usual practice for committees to delegate to the chair the authority to make routine administrative decisions, for example about the committee&rsquo;s programme.&nbsp; In exercising this authority, the chairperson should, where possible, operate in line with the committee consensus and should consult the committee on any matters which are contentious.</span></li>
-<li><span>If the chairperson loses the confidence of the committee, they can be removed.&nbsp; (The procedure for a no confidence vote is set out in SO 134.</span><span>)&nbsp;&nbsp;</span></li>
+<li>ކޮމިޓީގެ ޕްރޮގްރާމާގުޅޭ ނިންމުންތައްފަދަ، އާންމު އިދާރީ ނިންމުންތައް ނިންމުމުގެ މަސްއޫލިއްޔަތު ކޮމިޓީގެ މުގައްރިރަށް ދޫކޮށްލުމަކީ އާންމު އުސޫލެއްގެ ގޮތުން ކުރާ ކަމެކެވެ. މުގައްރިރުގެ ހައިސިއްޔަތުގެ ދަށުން މިގޮތަށް ކަންކަން ނިންމުމުގައި ވީހާވެސް ބޮޑަށް ކޮމިޓީގެ އާންމު އަޣުލަބިއްޔަތާ އެއްގޮތަށް، އަދި ދެބަސްވުން އޮވެދާނެފަދަ މައްސަލަތަކުގައި ކޮމިޓީގެ މަޝްވަރާގެ މަތިން ކަންކަން ނިންމުމަށް ސަމާލުކަން ދޭންވާނެއެވެ. </li>
+<li>ކޮމިޓީގެ މުގައްރިރާމެދު ކޮމިޓީގެ އިތުބާރު ގެއްލިއްޖެ ނަމަ، އެމެމްބަރަކު މުގައްރިރުގެ މަގާމުން ދުރުކުރެވިދާނެއެވެ. (އިތުބާރު ނެތްކަމުވެ ވޯޓާގުޅޭ އިޖުރާއަތްތައް މަޖިލީހުގެ ގަވާއިދުގެ 134 ވަނަ މާއްދާގައި ބަޔާންކޮށްފައިވެއެވެ). </li>
 </ol>
-<h2><span>Responsibilities of committee members</span></h2>
-<h3><span>Attendance at meetings</span></h3>
+
+<h2>ކޮމިޓީ މެމްބަރުންގެ މަގާމުގެ މަސްއޫލިއްޔަތުތައް</h2>
+
+<h3>ބައްދަލުވުންތަކުގައި ބައިވެރިވުން</h3>
+
 <ol start="4">
-<li aria-level="2"><span>Committee members are expected to attend committee meetings. If they are unable to do so, they should inform the chairperson [</span><em><span>or the clerk?</span></em><span>] in advance. The committee cannot function unless the agreed quorum is present. Members who repeatedly fail to attend meetings may be referred to the Ethics and Privileges Committee and may be removed from the committee.</span></li>
-<li aria-level="2"><span>It is good practice for committee members to arrive in time for the beginning of committee meetings and to remain till the end.&nbsp; This is courteous to other Members and to witnesses, demonstrates commitment to the public, and helps the Committee to operate effectively.</span></li>
+<li>ކޮމިޓީގެ މެމްބަރުން ކޮމިޓީގެ ބައްދަލުވުންތަކުގައި ބައިވެރިވާންވާނެއެވެ. ބައްދަލުވުމުގައި ބައިވެރިވުމަށް އުޒުރުވެރިވާ ހާލަތްތަކުގައި ކުރިއާލާ މުގައްރިރަށް އެކަން އަންގަންވާނެއެވެ. ކަނޑައެޅިފައިވާ ކޯރަމް ހަމަނުވާނަމަ ކޮމިޓީގެ މަސައްކަތްތަކެއް ކުރިއަށް ނުގެންދެވޭނެއެވެ. ގިނަގިނައިން ކޮމިޓީތަކުގެ ބައްދަލުވުންތަކަށް ހާޒިރުނުވާ މެމްބަރުން އިމްތިޔާޒު އަދި ސުލޫކީ ކޮމިޓީއަށް ހާޒިރުކޮށް، ކޮމިޓީއިން ވަކިކުރެވިދާނެއެވެ. </li>
+<li>ބައްދަލުވުންތަކަށް ވަގުތައް ހާޒިރުވެ، ބައްދަލުވުން ނިމެންދެން މެމްބަރުން ތިއްބަވަންވާނެއެވެ. މިއީ ކޮމިޓީގެ އެހެން މެމްބަރުންނާއި، ހާޒިރުކުރެވޭ ބަޔާން ދޭ ފަރާތްތަކަށް އިހުތިރާމު އަދާކުރުމުގެ ގޮތުން، އަދި ރައްޔިތުންނަށް ހިދުމަތް ކުރުމުގައި އިހްލާސްތެރިވުމަށާއި އަދި ކޮމިޓީގެ މަސައްކަތްތައް ރަނގަޅަށް ކުރިއަށް ގެންދިއުމަށް ވަރަށްވެސް މުހިންމު ކަމެކެވެ. </li>
 </ol>
-<h3><span>Conduct at meetings</span></h3>
-<ol start="7l">
-<li aria-level="2"><span>Members should behave with decorum in committee meetings, bearing in mind that they are formal proceedings of the Majlis, but it is acceptable to speak more informally than is customary in the plenary.&nbsp; Members should treat each other with respect but it is not essential to refer to others as &ldquo;the Honourable Member&rdquo; or to direct everything you say to the chairperson.</span></li>
-<li aria-level="2"><span>Members should wear appropriately formal dress when attending committee meetings, in the same way as when attending the plenary. [This means a shirt and tie for men, and modest dress for women.] This helps to convey to witnesses and the public that the meeting is a formal parliamentary proceeding.&nbsp;</span></li>
+
+<h3>ބައްދަލުވުންތަކުގައި އަމަލުކުރަންވީ ގޮތް</h3>
+
+<ol start="6">
+<li>ކޮމިޓީގެ ބައްދަލުވުންތަކަކީ މަޖިލީހުގެ ރަސްމީ ބައްދަލުވުމެއްކަން ދަނެ، އެއާއެއްގޮތަށް މެމްބަރުންގެ އަހުލާގު ހިފަހައްޓަންވާނެއެވެ. ނަމަވެސް މަޖިލީހުގެ އާންމު ޖަލްސާތަކުގައި އާންމުކޮށް ބޭނުންކުރާ ބަހުރުވައަށްވުރެ ނުރަސްމީކޮށް ވާހަކަދެއްކުމަކުން މައްސަލައެއްނެތެވެ. މެމްބަރުން އެކަކު އަނެކަކާ މުހާތަބުކުރުމުގައި އިހުތިރާމު އަދާކުރަންވާނެއެވެ. ނަމަވެސް އެހެން މެމްބަރަކާ މުހާތަބުކުރުމުގައި ނަމުގެ ކުރިއަށް އިއްޒަތްތެރި މެމްބަރު، ނުވަތަ ހުރިހާ ބަހެއް މުގައްރިރަށް އަމާޒުކުރުން މަޖުބޫރެއްނޫނެވެ. </li>
+<li>ކޮމިޓީގެ ބައްދަލުވުންތަކަށް ހާޒިރުވާއިރު، ހުރިހާ މެމްބަރުންވެސް މަޖިލީހުގެ އާންމު ޖަލްސާތަކާ އެއްފަދައިން، ތުރުކުރައްވަންވާނީ ރަސްމީ ހެދުމެވެ. (މީގެ މާނައަކީ ފިރިހެން ބޭފުޅުން ގަމީހާއި ޓައި، އަދި އަންހެން ބޭފުޅުން ނިވާކަން ބޮޑު ހެދުމެވެ). މިއީ ބަޔާން ދިނުމަށް ހާޒިރުކުރެވޭ އާންމު ރައްޔިތުންނަށްވެސް ބައްދަލުވުމަކީ މަޖިލީހުގެ ރަސްމީ ބައްދަލުވުމެއްކަން ދޭހަކޮށްދިނުމެވެ. </li>
 </ol>
-<h3><span>Respect for witnesses</span></h3>
+
+<h3>ހެކިބަސްދޭ ފަރާތްތަކަށް އިހުތިރާމުކުރުން </h3>
+
+<ol start="8">
+<li>މަޖިލީހުގެ އިހުތިރާމާއި ގަދަރު ދެމެހެއްޓުމަށްޓަކައި ބަޔާން ދިނުމަށް ހާޒިރުކުރެވޭ ފަރާތްތަކަށް މެމްބަރުން އިހުތިރާމު އަދާކުރަންވާނެއެވެ. ބަޔާންދޭ ފަރާތްތަކާއެކު އިހުތިރާމާއެކު މުހާތަބުކުރުމަކީ ފުރިހަމަ އަދި ބޭނުންތެރި ބަޔާން ހޯދުމަށް އެހީތެރިވެދޭނެ ކަމެކެވެ. މިގޮތުން ލިބޭ ހެއްކަކީ އެކަށީގެންވާ ހެއްކެއްނޫން ކަމަށް ފެންނަނަމަ، އެކަން ކޮމިޓީގެ ރިޕޯޓުގައި ސާފުކޮށް ފާހަގަކުރަންވާނެއެވެ. ނަމަވެސް ބަޔާންހޯދުމުގެ މަރުހަލާގައި މިފަދަ ކަންބޮޑުވުންތައް ފާޅުކޮށްގެންނުވާނެއެވެ. </li>
+</ol>
+
+<h3>ޖިންސީ ހަމަހަމަކަމަށް ސަމާލުކަންދިނުން</h3>
+
 <ol start="9">
-<li aria-level="2"><span>It is important for the reputation of the Majlis that Members treat with witnesses with respect.&nbsp; Treating witnesses politely is also usually more productive in encouraging them to give full and useful evidence.&nbsp; If the evidence is unsatisfactory, you can make your criticism clear in the committee&rsquo;s report:&nbsp; you should not prejudge the committee&rsquo;s conclusions when taking evidence.</span></li>
+<li>ކޮމިޓީގެ މަސައްކަތްތައް ކުރުމުގައި އަންހެނުންގެ (އަދި މައިނޯރިޓީޒް) ހައްގުތަކަށް ފަރުވާ ބަހައްޓަންވާނެއެވެ. މީގެ މާނައަކީ ކޮމިޓީގެ ޕްރޮގްރާމް ކަނޑައެޅުމުގައި ޖިންސީ ހަމަހަމަކަމާގުޅޭ ކަންކަމަށް ރިއާޔަތްކޮށް، އަދި ސިޔާސަތުތައް ބައްޓަންކުރުމުގައި އޭގެ ސަބަބުން ޖިންސީ ހަމަހަމަކަމަށް ކޮށްފާނެ އަސަރުތައް ފުރިހަމައަށް ދިރާސާކޮށް، އަދި ބަޔާންދިނުމުގައިވެސް އަންހެނުންނާއި ފިރިހެނުން ހަމަހަމަކުރުމެވެ. </li>
 </ol>
-<h3><span>Gender sensitivity [or Sensitivity to gender and minority rights]</span></h3>
+
+<h3>ހާމަކުރުމާއި ސިއްރު ހިފެހެއްޓުން</h3>
+
 <ol start="10">
-<li aria-level="2"><span>Members should be mindful of the rights of women [and of minorities] in all aspects of the committee&rsquo;s work.&nbsp; This means, for example, ensuring that the committee&rsquo;s programme takes due account of gender issues and that the gender impacts of policy proposals are fully assessed, and that women are given equal access to giving evidence.&nbsp;</span></li>
+<li>އާންމު ހާލަތްތަކުގައި ކޮމިޓީތަކުގެ ބައްދަލުވުންތައް އާންމުންނަށާއި މީޑިއާތަކަށް ހުޅުވާލަންވާނެއެވެ. މިއީ ހާމަކަންބޮޑު ގޮތަކަށް ގައުމު ހިންގުމުގެ ބޭނުމަށް މުހިންމުކަމެކެވެ. ނަމަވެސް އަމަންއަމާންކަމާއި ގައުމީ ސަލާމަތަށްޓަކައި ކޮމިޓީގެ މަސައްކަތް ސިއްރުކުރަންޖެހޭފަދަ ހާލަތްތަކުގައި ސިއްރުކުރުމަކީ ކޮމިޓީގެ އިހުތިޔާރުގައިވާ ކަމެކެވެ. ސިއްރު ބައްދަލުވުންތަކުގައި ދެވޭ ބަޔާންތަކާއި ހެކިބަސް އެހެން އެއްވެސް ފަރާތަކަށް ހާމަކޮށްގެންނުވާނެއެވެ. އަދި ކޮމިޓީގެ އައުލަބިއްޔަތުން ހާމަކުރުމަށް ނިންމައި ހާލަތްތަކުގައި ފިޔަވާ، ކޮމިޓީ ރިޕޯޓުތަކުގައިވާ މައުލޫމާތުވެސް ހާމަކޮށްގެންނުވާނެއެވެ. </li>
 </ol>
-<h3><span>Transparency and confidentiality&nbsp;</span>&nbsp;</h3>
+
+<h3>މަސްލަހަތު ފުށުއެރުން</h3>
+
 <ol start="11">
-<li aria-level="2"><span>In normal circumstances, committees are required to meet in public and to be open to the media. This is in the interests of transparency and good governance.&nbsp; However, it is open to committees to exclude the public and the press from all or any part of the proceedings if there is a compelling need to do so in the interests of public order or national security. </span><span>&nbsp; Committee members should keep evidence taken in closed session in confidence and should not divulge the contents of Committee reports unless agreed by majority of the committee.&nbsp;</span>&nbsp;</li>
+<li>ކޮމިޓީގެ މަސައްކަތްތައް ކުރިއަށް ގެންދިއުމުގައި މަސްހަލަތު ފުށުއަރާފާނެ، ނުވަތަ ފުށުއަރާކަމެއްކަމަށް ބެލެވިދާނެ ކޮންމެ ކަމަކުން ދުރުވުމަށް ކޮމިޓީގެ މެމްބަރުން ސަމާލުކަންދޭންވާނެއެވެ. </li>
+<li>ކޮމިޓީގެ ފުރަތަމަ ބައްދަލުވުމުގައި ކަމާބެހޭ ހުރިހާ މަސްލަހަތުތަކެއް (މާލީ އަދި އެނޫނަސް) ހާމަކުރަންވާނެއެވެ. އަދި ފަހުން ބޭއްވޭ ބައްދަލުވުމެއްގައި ނަމަވެސް، އެބައްދަލުވުމަކާގުޅޭ ކަމެއްގައި މަސްލަހަތު ފުށޫއަރާ ކަމެއްވާނަމަ، ބަޔާންދޭ ފަރާތްތަކާއި އާންމު ރައްޔިތުންނަށް ސާފުވާނެހެން، އެކަން ލަސްނުކޮށް ހާމަކުރަންވާނެއެވެ. މިއީ ހާމަކަން އިތުރުކުރުމަށާއި މެމްބަރުންނާމެދު ކުރެވިދާނެ ތުހުމަތަކުން ބަރީއަވުމަށް ކުރުން މުހިންމު ކަންކަމެވެ.</li>
+<li>ތަހުގީގުކުރެވޭ މައްސަލައަކާމެދު ސީދާ މާލީ ނުވަތަ ޒާތީ މަސްލަހަތެއްވާނަމަ، އެކަމާގުޅޭ ގޮތުން ބަޔާންދޭ ފަރާތްތަކާ ސުވާލުކުރުމުގައި އަދި ކޮމިޓީގެ ރިޕޯޓުގެ ބަހުސްގައިވެސް ބައިވެރިވެގެން ނުވާނެއެވެ. މިސާލަކަށް، މެމްބަރެއްގެ އާއިލާގެ މެމްބަރެއް ނުވަތަ ދަންނަ ގާތް ފަރާތެއް މަގާމަކަށް އައްޔަންކުރުމާމެދު ކޮމިޓީގައި ކުރެވޭ އެއްވެސް މަސައްކަތެއްގައި އެމެމްބަރަކު ބައިވެރިވެގެން ނުވާނެއެވެ. ސަބަބަކީ އެކަމުގެ ސަބަބުން ވަކިފަރާތަކަށް ބުރަނުވެ މަސައްކަތްކުރުމަށް ކޮމިޓީގެ އިހުލާސްތެރިކަމާމެދު ސުވާލު އުފެދޭނެތީއެވެ.</li>
 </ol>
-<h3><span>Conflicts of interest</span></h3>
-<ol start="12">
-<li aria-level="2"><span>Committee members should guard against any conflict of interest that might impact, or be perceived to impact, on your committee work.&nbsp;&nbsp;</span></li>
-<li aria-level="2"><span>It can be good practice to declare all relevant interests, both financial and non-financial, at the first meeting of the committee, and again at any subsequent meeting to which they are relevant, so that witnesses and the public are aware of them.&nbsp; This is important for transparency and to protect members from allegations of impropriety.</span></li>
-<li aria-level="2"><span>I</span><span>f you have a direct financial or personal interest in the matter under inquiry, it is good practice not to take part in questioning witnesses or in the discussion of the committee&rsquo;s report. For example, if the committee is considering the appointment of a candidate who is a family member or close acquaintance, it is good practice not to take part, as it would bring the committee&rsquo;s impartiality into question.</span></li>
-</ol>
-<h2>&nbsp;</h2>
+
