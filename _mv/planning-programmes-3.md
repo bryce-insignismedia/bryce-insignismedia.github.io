@@ -5,34 +5,42 @@ tags:
 author: bryce
 ---
 
-<h3><span>Scrutiny of Legislation</span></h3>
+<h2>ގާނޫނު ދިރާސާކުރުން </h2>
+
+
 <ol>
-<li aria-level="2"><span>Bills are sent to a committee for detailed scrutiny following the debate on Second Reading in the plenary.&nbsp; The Standing Orders provide that, when analysing a bill, a committee may:</span></li>
+<li>ބިލުތަކުގެ ދެވަނަ ކިޔުމުގައި އާންމު ބަހުސަށްފަހު ތަފްސީލުކޮށް ދިރާސާކުރުމަށް ބިލުތައް ކޮމިޓީއަށް ފޮނުވާނެއެވެ. މަޖިލީހުގެ ގަވާއިދުގައިވާ ގޮތުގެ މަތިން ބިލުތައް ދިރާސާކުރުމުގައި ކޮމިޓީތަކުން އަންނަނިވި ކަންކަން ކުރެވިދާނެއެވެ: </li>
 </ol>
 <ul>
-<li aria-level="2"><span>Open the proposed bill for comments from state institutions, individuals and civil society.</span></li>
-<li aria-level="2"><span>Invite various stakeholders and obtain information on the proposed bill.</span></li>
-<li aria-level="2"><span>Make necessary amendments and revisions to the bill</span></li>
-<li aria-level="2"><span>Prepare a report (upon reaching a consensus on the Bill and its provisions) and send back to the Majlis for consideration.</span><span>&nbsp;&nbsp;</span></li>
+<li>ހުށަހެޅިފައިވާ ބިލު ދައުލަތުގެ އިދާރާތަކާއި، އަމިއްލަ ފަރުދުން އަދި ޖަމިއްޔާ ޖަމާއަތްތަކުގެ ހިޔާލުތަކަށް ހުޅުވާލުން </li>
+<li>ހުށަހެޅިފައިވާ ބިލާ ގުޅޭ މައުލޫމާތު ހޯދުމަށް ސްޓޭކްހޯލްޑަރުންނަށް ދައުވަތު ދިނުން </li>
+<li>ބިލަށް ގެންނަންޖެހޭ އިސްލާހުތަކާއި ބަދަލުތައް ގެނައުން </li>
+<li>ބިލާ ގުޅޭގޮތުން އެއްބަސްވުމަކަށް އާދެވުމުން އެއާގުޅޭ ރިޕޯޓެއް ތައްޔާރުކޮށް އަނބުރާ މަޖިލިހަށް ފޮނުވުން</li>
 </ul>
+
 <ol start="2">
-<li aria-level="2"><span>It is up to the committee to decide how best to open the bill for comments and for how long.&nbsp; It can be good practice to give enough time in advance to facilitate meaningful engagement with stakeholders, public consultations and allow public comments on the bill.&nbsp;</span></li>
-<li aria-level="2"><span>It is also up to the committee to decide who to invite to give evidence on the bill, in writing or orally.&nbsp; How many evidence sessions is appropriate will depend on the importance of the bill, how much time is available before the deadline for reporting, and what other demands there are on the committee&rsquo;s time.&nbsp; It is usual to invite the relevant government department or other state institution and key stakeholder bodies to provide written and oral evidence, but the committee may also want to hear the views of individual experts and people who are affected by the bill.&nbsp;</span></li>
-<li aria-level="2"><span>After the committee has taken evidence on the bill, it considers the bill and Members may propose amendments to it.&nbsp;</span></li>
-<li aria-level="2"><span>It is good practice to discuss and give notice of any amendments to clerk in advance, so that advice can be taken on the drafting. Amendments moved without notice risk being technically defective or inconsistent and may make the proposed law ineffective.</span></li>
+<li>ބިލުތަކާމެދު ހިޔާލުހޯދުމަށް ހުޅުވާލުމަށް އެންމެ އެކަށީގެންވާ ގޮތަކީ ކޮބައިކަމާއި ކިހާ މުއްދަތަކަށްކަން ކަނޑައަޅާނީ ކޮމިޓީއިންނެވެ. ހިޔާލުހޯދުމަށާއި ހަރުދަނާ ގޮތަކަށް ސްޓޭކްހޯލްޑަރުންނާއި އާންމުންގެ ހިޔާލު ހޯދުމަށް ފުރުސަތުދިނުމުގެ ގޮތުން އެކަށީގެންވާވަރަށް ވަގުތު ދިނުމަކީ އެންމެ ރަނގަޅު އުސޫލެއްކަމަށް ވެދާނެއެވެ.   </li>
+<li>ލިޔުމުން ނުވަތަ އަނގަބަހުންވިޔަސް ކޮމިޓީއަށް ބަޔާން ދިނުމަށް ދައުވަތުދޭންވީ ފަރާތްތައް ކަނޑައަޅާނީ ކޮމިޓީއިންނެވެ. ބަޔާންހޯދުމުގެ ގޮތުން ބާއްވާނީ ކިތައް ސެޝަންތޯ ކަނޑައަޅާނީ ބިލުގެ މުހިންމުކަމާއި، ރިޕޯޓު ތައްޔާރުކުރުމަށް ލިބިފައިވާ ވަގުތާއި އަދި ކޮމިޓީއިން ދެން ކުރަންހުރި މަސައްކަތްތަކަށް ބަލާފައެވެ. އާންމުގޮތެއްގައި ކަމާގުޅޭ ސަރުކާރުގެ އިދާރާތަކާއި އެހެނިހެން ސްޓޭކްހޯލްޑަރުންގެ ފަރާތުން ލިޔުމުން ނުވަތަ އަނގަބަހުން ކޮމިޓީއަށް ބަޔާންދިނުމަށް ދައުވަތު އަރުވައެވެ. އަދި މީގެ އިތުރުން ބައެއް ހާލަތްތަކުގައި ފަންނީ މާހިރުން އަދި ބިލުގެ ސަބަބުން އޭގެ އަސަރުކުރާނެ އެހެނިހެން ފަރާތްތަކަށްވެސް ދައުވަތުދިނުމަށް ކަނޑައެޅިދާނެއެވެ. </li>
+<li>ކޮމިޓީއިން ބިލާބެހޭގޮތުން ބަޔާން ނެގުމަށްފަހު، ބިލަށް އިސްލާހުގެނައުމަށް ގެނައުމަށް ހުށަހެޅިދާނެއެވެ. </li>
+<li>އިސްލާހުތަކާބެހޭގޮތުން ކުރިއާލާ އިދާރީ މުވައްޒަފަށް އެންގުމަކީ ރަނގަޅު އުސޫލެކެވެ. އޭގެ ސަބަބުން ޑްރާފްޓްކުރުމާގުޅޭގޮތުން އިރުޝާދުހޯދުމަށް ފުރުސަތު ލިބިގެންދެއެވެ. މިކަމަށް އެކަށީގެންވާ ވަގުތު ނުލިބޭނަމަ، އިސްލާހުތަކުގައި ކުށެއް ނުވަތަ އޮޅުންއަރައި ކަންކަން ހިމެނި، ހުށަހަޅައި ގާނޫނުތަކުގެ ބާރުކުޑަވެގެންދެއެވެ.</li>
 </ol>
-<h3><span>Government accountability</span></h3>
+
+<h2>ސަރުކާރު ޖަވާބުދާރީކުރުވުން </h2>
+
 <ol start="6">
-<li aria-level="2"><span>The Standing Orders provide that committees may decide to hold meetings to assess the manner in which the Government is discharging their responsibilities; or to assess, in the light of the relevant policy or the relevant provisions of law, the manner in which projects and programmes are being implemented or how a specific matter is being administered by the Government. The purpose might be to ensure that the work of the relevant Government institutions are being carried out in accordance with the intentions with which Majlis had passed the law or in a manner which most effectively protects the interests of the public, or to ensure value for money and efficient delivery of the intended outcome.</span></li>
-<li aria-level="2"><span>In order to carry out this function, committees might consider a number of approaches:</span></li>
+<li>މަޖިލީހުގެ ގަވާއިދުގައިވާ ގޮތުން ސަރުކާރުގެ މަސްއޫލިއްޔަތު އަދާކުރާ މިންވަރު ބެލުމުގެ ގޮތުން، ނުވަތަ ކަމާގުޅޭ ސިޔާސަތުތަކަށް ނުވަތަ ގާނޫނުގައިވާ ގޮތަށް ރިއާޔަތްކޮށް ސަރުކާރުގެ ޕްރޮޖެކްޓްތަކާއި ޕްރޮގްރާމްތައް ކުރިއަށްދާ މިންވަރު ބެލުމަށް، ނުވަތަ ސީދާ ވަކި މައްސަލައެއް ސަރުކާރުން ކުރިއަށްގެންދަނީ ކިހިނެއްތޯ ބެލުމަށް، ކޮމިޓީގެ ބައްދަލުވުންތައް ބޭއްވިދާނެއެވެ. މީގެ ބޭނުމަކީ ކަމާގުޅޭ ސަރުކާރުގެ އިދާރާތަކުން މަސައްކަތް ކުރިއަށް ގެންދަނީ މަޖިލީހުން ގާނޫނު ފާސްކުރި ބޭނުން ހާސިލުވާގޮތަށްތޯ ބެލުމަށް، ނުވަތަ އާންމު ރައްޔިތުންގެ މަސްލަހަތާ އެއްގޮތަށްތޯ ބެލުމަށް، ނުވަތަ ދައުލަތުގެ ފައިސާގެ ބޭނުން ކުރެވެނީ އެންމެ އެދެވިގެންވާ ގޮތަށްތޯ ބެލުމަށް، އަދި ހާސިލުކުރަން ބޭނުންވާ ކަންކަން ހާސިލުކުރެވޭ ގޮތަށްތޯ ބެލުމެވެ. </li>
+<li>މި މަގްސަދު ހާސިލުކުރުމަށް ކޮމިޓީއިން ތަފާތު ގޮތްގޮތަށް މަސައްކަތް ކުރެވިދާނެއެވެ: </li>
 </ol>
 <ul>
-<li aria-level="2"><span>Holding an annual meeting with the Minister and/or senior official responsible for the government institution, perhaps focusing on the institution&rsquo;s annual performance report or expenditure plans;</span></li>
-<li aria-level="2"><span>Holding meetings with the senior responsible officer for any major government programmes led by the institution</span></li>
-<li aria-level="2"><span>Seeking the advice of the Auditor General&rsquo;s Office on matters meriting the Committee&rsquo;s attention.&nbsp;</span></li>
+<li>ސަރުކާރުގެ އިދާރާތަކުގެ އަހަރީ ޕަރފޯމަންސް ރިޕޯޓު ނުވަތަ ހަރަދު ކުރުމަށް ހަމަޖެހިފައިވާ ޕްލޭނާ ގުޅޭގޮތުން ސަރުކާރުގެ ވުޒާރާތަކުގެ އިސްވެރިން އަދި/ނުވަތަ ވަޒީރާއެކު އަހަރަކު އެއްފަހަރު ބައްދަލުވުމެއް ބޭއްވުން. </li>
+<li>ސަރުކާރުގެ ފަރާތުން ހިންގާ ހުރިހާ ބޮޑެތި މަޝްރޫއުތައް ހިންގުމާ ހަވާލުވެ ހުރި އިސްވެރިންނާއެކު ބައްދަލުވުން ބޭއްވުން</li>
+<li>ކޮމިޓީގެ ސަމާލުކަމަށް އައިސްފައިވާ ކަންކަމާ ގުޅޭގޮތުން އޮޑިޓަރ ޖެނަރަލްގެ ލަފާ ހޯދުން </li>
 </ul>
-<h3><span>Review of appointments&nbsp;</span></h3>
+
+<h2>މަގާމްތަކަށް އައްޔަންކުރުމަށް ހުށަހެޅިފައިވާ ނަން ފާސްކުރުން</h2>
+
 <ol start="8">
-<li aria-level="2"><span>Committees may also hold meetings to review proposed appointments by the President which are subject to their approval, or to give advice on proposed appointments on which the Government consults them.</span><span> The aim of these meetings is to gather information on the requirements of the office and whether the nominee has had adequate preparation for the role, and to ascertain whether they are competent.</span></li>
-<li aria-level="2"><span>It is important that the committee demonstrates objectivity and impartiality in considering public appointments. The candidate should be given a fair hearing, and the questioning should focus on the required competences for the role. If Members are a relation, or close acquaintance, of the candidate, it is good practice not to take part.&nbsp; If the committee rejects the candidate, the reasons should be made clear and should relate to the required competences for the role.&nbsp;</span></li>
+<li>އެކިއެކި މަގާމުތަކަށް އައްޔަންކުރުމަށް ރައީސުލްޖުމްހޫރިއްޔާ ހުށަހެޅުއްވާ ނަން ފާސްކުރުމަށް ނުވަތަ އެމަގާމުތަކަށް ހުށަހެޅިފައިވާ ފަރާތްތަކާ ގުޅޭގޮތުން ލަފާދިނުމަށް ސަރުކާރުން އެދޭ ހާލަތްތަކުގައި ލަފާދިނުމަށް ކޮމިޓީއިން ބައްދަލުވުން ބޭއްވިދާނެއެވެ. މިފަދަ ބައްދަލުވުންތަކުގެ ބޭނުމަކީ މަގާމުތަކުގެ މަސްއޫލިއްޔަތުތަކާއި ޝަރުތުތަކާ ބެހޭގޮތުން މައުލޫމާތު ހޯދުމާއި، މަގާމުތަކަށް ހުށަހެޅިފައިވާ ފަރާތްތަކުގެ ގާބިލުކަން ކަށަވަރުކުރުމެވެ. </li>
+<li>މަގާމްތަކަށް މީހުން އައްޔަންކުރުމަށް ނަން ފާސްކުރުމުގައި ކޮމިޓީތަކުން ވަކި ކޮޅަކަށް ބުރަނުވެ އިންސާފުވެރިކަމާއެކު މަސައްކަތްކުރާކަން ހާމަކުރުން މުހިންމެވެ. ކޮންމެ ކެންޑިޑެޓަކަށްވެސް އިންސާފުވެރި އަޑުއެހުމެއްދީ ސުވާލުކުރުމުގައި މަގާމަށް ބޭނުންވާ ޝަރުތުތަކާއި މަސްއޫލިއްޔަތުތަކަށް ސަމާލުކަންދޭންވާނެއެވެ. ކެންޑިޑެޓަކީ މެމްބަރެއްގެ ގާތްތިމާގެ ނުވަތަ ގާތް ރައްޓެއްސެއްކަމަށްވާނަމަ، އަޑުއެހުމުގައި ބައިވެރިނުވުމަކީ ރަނގަޅު އުސޫލެކެވެ. ކޮމިޓީއިން ނަން ބަލައިނުގަތުމަށް ނިންމާނަމަ، އެގޮތަށް ނިންމި ސަބަބު ސާފުވާންވާނެއެވެ. އަދި އެސަބަބުތަކަކީ މަގާމުގެ މަސްއޫލިއްޔަތުތަކާ ގުޅޭ ސަބަބުތަކަށް ވާންވާނެއެވެ. </li>
 </ol>
+
