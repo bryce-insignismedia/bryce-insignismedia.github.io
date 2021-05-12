@@ -7,7 +7,7 @@ author: bryce
 ---
 
 
-<img src="https://387d55a3a0574af3beeafea9b696a716.vfs.cloud9.us-east-2.amazonaws.com/uploads/docs-banner-1.jpg" alt="Banner" width="755" height="263">
+<img src="../../uploads/docs-banner-1.jpg" alt="Banner" width="755" height="263">
 
 <ol>
 <li><span >This guidance is intended as a practical user-guide for Members of the Majlis who are appointed to committees.&nbsp; It is also intended to be useful for committee staff, and for others who are interested in how committees work.&nbsp;</span></li>
