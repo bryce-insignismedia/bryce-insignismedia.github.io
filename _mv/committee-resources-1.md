@@ -5,43 +5,39 @@ tags:
 author: bryce
 ---
 
-<h3><span>Committee staff</span></h3>
-
 <img src="../../uploads/docs-banner-5.jpg" alt="Banner" width="755" height="263">
 
+<h2>ކޮމިޓީގެ މުވައްޒަފުން </h2>
+
 <ol>
-<li aria-level="2"><span>Each committee is supported by a committee clerk and two support staff, who are members of the parliamentary service of the Majlis.&nbsp; The clerk will work to support the chairperson in managing the committee&rsquo;s programme and delivering its workplan, but is also available &ndash; as far as their time permits - to assist and advise other members of the committee.&nbsp;&nbsp;</span></li>
-<li aria-level="2"><span>The staff team will:</span></li>
+<li>ކޮންމެ ކޮމިޓީއެއްގެ މަސައްކަތަށް އެހީތެރިވުމުގެ ގޮތުން ކޮމިޓީގެ އިދާރީ މުވައްޒަފު ނުވަތަ މަޖިލީހުގެ އިދާރީ މުވައްޒަފުންގެ ތެރޭގައި ހިމެނޭ ދެ އެހީތެރިން ހަރަކާތްތެރިވެއެވެ. ކޮމިޓީގެ އިދާރީ މުވައްޒަފު މަސައްކަތްކުރާނީ ކޮމިޓީގެ ޕްރޮގްރާމް ހިންގުމާއި މަސައްކަތުގެ ޕްލޭންގައިވާ ކަންކަން ކުރިއަށްގެންދިއުމުގައި މުގައްރިރުގެ އެހީތެރިއްގެ ގޮތުންނެވެ. އަދި ވަގުތު ތަންދޭ މިންވަރަކުން ކޮމިޓީގެ އެހެން މެމްބަރުންނަށްވެސް އެހީތެރިވެ ލަފާދޭނެއެވެ. </li>
+<li>މުވައްޒަފުންގެ ޓީމުގެ މަސްއޫލިއްޔަތުތަކުގެ ތެރޭގައި: </li>
 </ol>
 <ul>
-<li aria-level="2"><span>keep up to date with emerging issues in the committee&rsquo;s subject area</span></li>
-<li aria-level="2"><span>suggest potential inquiries and their scope and focus</span></li>
-<li aria-level="2"><span>research and propose potential witnesses (to give both written and oral evidence) once an inquiry subject has been chosen</span></li>
-<li aria-level="2"><span>organise oral evidence sessions once the committee has chosen witnesses</span></li>
-<li aria-level="2"><span>provide briefing and suggested questions for those sessions</span></li>
-<li aria-level="2"><span>manage the process of inquiries</span></li>
-<li aria-level="2"><span>engage with the expert community and other stakeholders in the area of the committee&rsquo;s remit on its behalf</span></li>
-<li aria-level="2"><span>engage with the government in the necessary official-level negotiations</span></li>
-<li aria-level="2"><span>engage with the public and help the committee to do so</span></li>
-<li aria-level="2"><span>analyse the evidence received</span></li>
-<li aria-level="2"><span>brief the committee on key issues and emerging findings</span></li>
-<li aria-level="2"><span>draft reports at the end of each inquiry on the chairperson&rsquo;s behalf and under their authority</span></li>
-<li aria-level="2"><span>draft amendments to those reports for other members of the committee, on request&nbsp;</span></li>
-<li aria-level="2"><span>support the chairperson in his or her role as the public face of the committee</span></li>
-<li aria-level="2"><span>draft press notices for the chairperson and committee, and issue them when reports are published</span></li>
-<li aria-level="2"><span>maintain the committee&rsquo;s web pages and manage its social media presence, and</span></li>
-<li aria-level="2"><span>arrange committee visits, receiving of inward delegations and other events.&nbsp;</span></li>
+<li>ކޮމިޓީގެ ދާއިރާއާގުޅޭ ގޮތުން ފެންމަތިވާ މައްސަލަތައް ދިރާސާކުރުން</li>
+<li>ކޮމިޓީއިން ކުރިއަށްގެންދެވިދާނެ ތަހުގީގުތައް ހޯދައި، އޭގައި ހިމެނޭނެ ކަންކަން ކޮމިޓީއަށް ހުށަހެޅުން</li>
+<li>ތަހުގީގުކުރާނެ މައްސަލަ ކަނޑައެޅުމަށްފަހު ލިޔުމުން އަދި އަނގަބަހުން ބަޔާންދޭނެ ފަރާތްތައް ދިރާސާކޮށް ހުށަހެޅުން</li>
+<li>ކޮމިޓީއިން ބަޔާން ނަގާނެ ފަރާތްތައް ކަނޑައެޅުމުން އަނގަބަހުން ބަޔާން ހޯދުމުގެ ސެޝަން އިންތިޒާމުކުރުން</li>
+<li>މިސެޝަންތަކުގެ ބްރީފިންގ އަދި ކުރެވިދާނެ ސުވާލުތައް ތައްޔާރުކުރުން </li>
+<li>ތަހުގީގީ މަރުހަލާ އިންތިޒާމުކުރުން</li>
+<li>ކޮމިޓީގެ ފަރާތުން ކަމާގުޅޭ މާހިރުންނާއި އެހެނިހެން ސްޓޭކްހޯލްޑަރުންނަށް ގުޅުން </li>
+<li>ރަސްމީ ގޮތުން ސަރުކާރުގެ އިދާރާތަކަށް ގުޅައި ވާހަކަދެއްކުން </li>
+<li>އާންމު ރައްޔިތުން ހޭލުންތެރިކޮށް ކޮމިޓީއަށް އެކަމުގައި އެހީތެރިވުން</li>
+<li>ލިބިފައިވާ ބަޔާންތައް ދިރާސާކުރުން</li>
+<li>މައިގަނޑު މައްސަލަތަކާއި ހޯދިފައިވާ ކަންކަމާ ބެހޭގޮތުން ކޮމިޓީއަށް ބްރީފިންގ ދިނުން</li>
+<li>ތަހުގީގު ނިމުމަށްފަހު، މުގައްރިރުގެ ފަރާތުން އަދި އެހައިސިއްޔަތުގެ ދަށުން ތައްޔާރުކުރެޥެ ރިޕޯޓުތައް އެކުލަވާލުން</li>
+<li>އެހެން މެމްބަރުންގެ އެދުމުގެ މަތިން ރިޕޯޓުތަކަށް ގެންނަންޖެހޭ ބަދަލުތައް ގެނައުން </li>
+<li>މުގައްރިރު ކޮމިޓީގެ ފަރާތުން ހިންގާ ހަރަކާތްތަކުގައި އެހީތެރިވެދިނުން</li>
+<li>މުގައްރިރު އަދި ކޮމިޓީގެ ފަރާތުން ނޫސްބަޔާން ތައްޔާރުކޮށް، ރިޕޯޓުތައް ޝާއިއުކުރުމުން ނޫސްބަޔާން ނެރުން</li>
+<li>ކޮމިޓީގެ ވެބްސައިޓް އަދި މީސްމީޑިއާ ބެލެހެއްޓުން</li>
+<li>ކޮމިޓީގެ ދަތުރުތަކާއި ޒިޔާރަތްކުރާ ވަފުދުތަކާއި އެހެނިހެން އިވެންޓްތައް އިންތިޒާމުކުރުން</li>
 </ul>
+
 <ol start="3">
-<li><span>Please bear in mind that your clerk may be supporting a number of committees and may have limited time to support individual committee members. Also, as a member of the impartial parliamentary service, the clerk / staff cannot assist committee members with work that is party political in nature or purpose.&nbsp;</span>&nbsp;</li>
-<li><span>It is open to committees to request additional staff on a temporary basis if need arises</span><em><span>.</span><span>&nbsp;</span></em></li>
-<li>
-<p><span>Committee staff have a right to be treated with respect and to work in a supportive environment in which bullying or harassment are not tolerated. It is a matter for each parliament to decide how any complaints of ill-treatment will be investigated and dealt with.&nbsp;</span></p>
-</li>
-<li>
-<p><span>In return, committee members can expect to receive a courteous and efficient service from their staff team. If you are not satisfied, please raise your concern with the clerk or, if this does not resolve the matter, with the Counsel-General.</span></p>
-</li>
-<li>
-<p><span>Chairpersons should seek to develop a positive working relationship with the committee clerk, setting the overall direction of the committee&rsquo;s programme while allowing the clerk some freedom to administer the programme on a day-to-day basis. It is usually helpful to have an early and clear discussion of mutual expectations and boundaries &ndash; including practical matters, such as how best to contact each other and whether it is reasonable to expect response outside working hours.&nbsp; &nbsp;</span></p>
-</li>
+<li>ކޮމިޓީގެ އިދާރީ މުވައްޒަފަކީ އެހެން ކޮމިޓީތަކުގެ މަސައްކަތްތަކުގައިވެސް ހަރަކާތްތެރިވާ ފަރާތަކަށް ވެފައި، ވަކިވަކި ކޮމިޓީ މެމްބަރުންނަށް އެހީތެރިކަން ފޯރުކޮށްދިނުމަށް ވަގުތު ނުދެވިދާނެކަން ވިސްނައި އެކަމަށް ސަމާލުވާންވާނެއެވެ. ހަމައެހެންމެ ކޮމިޓީގެ އިދާރީ މުވައްޒަފުންނަކީ ސިޔާސީ ގޮތުން ވަކިކޮޅަކަށް ނުޖެހި މަސައްކަތްކުރަންޖެހޭ މުވައްޒަފުން ކަމުގައިވުމުން، އެއްވެސް ކޮމިޓީ މެމްބަރަކާގުޅޭ ސިޔާސީ ޕާޓީއެއްގެ ބޭނުމަށް ނުވަތަ ފައިދާއަށް މަސައްކަތެއް ނުކުރެވޭނެއެވެ. </li>
+<li>ބޭނުންޖެހޭ ހާލަތްތަކުގައި ވަގުތީ ގޮތުން ކޮމިޓީގެ މަސައްކަތްތައް ކުރުމަށް އިތުރު މުވައްޒަފުން ހޯދުމަށް އެދުމަކީ ކޮމިޓީގެ އިހުތިޔާރުގައިވާ ކަމެކެވެ. </li>
+<li>އިހުތިރާމާއި އެއްބާރުލުން، އަދި ފުރައްސާރަކުރުމާއި ބިރުދެއްކުމުން ރައްކާތެރިކަން ލިބޭ މަސައްކަތުގެ މާހައުލެއް ކަށަވަރުވުމަކީ ކޮމިޓީގެ މުވައްޒަފުންނަށް ލިބިފައިވާ ހައްގެކެވެ. ކޮންމެ މަޖިލީހަކުންވެސް މަސައްކަތުގެ މާހައުލުގައި ގޯސްކޮށް ހިނގާ މިފަދަ ކަންކަމާގުޅޭ ޝަކުވާ ބަލައިގަނެ، މައްސަލަ ބަލައި، ފިޔަވަޅު އަޅާނެ ގޮތްތައް ކަނޑައަޅަންވާނެއެވެ. </li>
+<li>ހަމައެއާއެކު ކޮމިޓީގެ އިދާރީ މުވައްޒަފުންގެ ފަރާތުން އިހުތިރާމާއެކު ހަރުދަނާ ހިދުމަތް ކޮމިޓީގެ މެމްބަރުންނަށް ލިބެންވާނެއެވެ. އިދާރީ މަސައްކަތްތަކާމެދު ހިތްހަމަނުޖެހޭނަމަ، އެކަން އިދާރީ މުވައްޒަފުންނާ ހިއްސާކޮށް، ދެންވެސް މައްސަލަ ހައްލުނުވާނަމަ ކައުންސެލް ޖެނަރަލްއާ ހިސާބަށް މައްސަލަ ގެންދެވިދާނެއެވެ. </li>
+<li>އިދާރީ މުވައްޒަފުންނާއެކު އޮންނަ މަސައްކަތުގެ ގުޅުން ވަރުގަދަކުރުމަށް މުގައްރިރު މަސައްކަތް ކުރަންވާނެއެވެ. މިގޮތުން ކޮމިޓީގެ ޕްރޮގްރާމް ހިނގާނެ ގޮތް ކަނޑައަޅާނީ މުގައްރިރު ކަމުގައިވީނަމަވެސް ދުވަހުން ދުވަހަށް ކުރެވޭ މަސައްކަތްތައް ހިންގާނެ ގޮތް ކަނޑައެޅުމުގެ މިނިވަންކަން އިދާރީ މުވައްޒަފަށް ދޭންވާނެއެވެ. ދެފަރާތުން މަސައްކަތް ކުރުމުގައި ހުންނަންޖެހޭ ކަންކަމާއި ކަނޑައަޅަން ބޭނުންވާ އިންތައް، އަދި މިނޫނަސް އެހެނިހެން ޕްރެކްޓިކަލް ކަންކަން، މިސާލަކާށް ރަސްމީ ވަގުތުން ބޭރުގައި ގުޅުން އެންމެ ރަނގަޅުތޯ އަދި ކިހިނެއްތޯ، މިފަދަ ހުރިހާ ކުރީބައިގައި މަޝްވަރާކޮށް ސާފުވެފައި އޮތުން ބޭނުންތެރި ކަމަކަށް ވާނެއެވެ. </li>
 </ol>
+

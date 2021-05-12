@@ -1,23 +1,23 @@
-- title: Introduction
+- title: ތައާރަފު
   docs:
   - introduction-1
   
-- title: Committee Members
+- title: ކޮމިޓީގެ މެމްބަރުން 
   docs:
   - committee-members-1
   - committee-members-2
 
-- title: Committee Functions
+- title: ކޮމިޓީގެ މަސްއޫލިއްޔަތުތަކާއި ބާރުތައް
   docs:
   - committee-functions-1
   
-- title: Committee Meetings
+- title: ކޮމިޓީގެ ބައްދަލުވުންތައް
   docs:
   - committee-meetings-1
   - committee-meetings-2
   - committee-meetings-3
   
-- title: Planning Committee Programmes and Managing Inquiries
+- title: ކޮމިޓީގެ ޕްރޮގްރާމްތައް ރާވައި ތަހުގީގުތައް ހިންގުން ްގުން 
   docs:
   - planning-programmes-1
   - planning-programmes-2
@@ -25,3 +25,12 @@
   - planning-programmes-4
   - planning-programmes-5
   - planning-programmes-6
+  
+- title: ކޮމިޓީ ވަސީލަތްތައް 
+  docs: 
+  - committee-resources-1
+  - committee-resources-2
+  
+- title: ޖަދުވަލު
+  docs:
+  - appendix-1
