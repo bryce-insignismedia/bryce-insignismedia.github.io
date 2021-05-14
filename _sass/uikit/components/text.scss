@@ -234,6 +234,18 @@ th.uk-text-break,
 td.uk-text-break { word-break: break-all; }
 
 
+// Ordered list
+ol{
+    padding:0px;
+    list-style-position: inside;
+}
+
+// Text left indent
+.mv-article{
+    margin-left:120px;
+}
+
+
 
 // Hooks
 // ========================================================================
