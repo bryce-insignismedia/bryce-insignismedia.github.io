@@ -1,33 +1,39 @@
 # Boxes include navigation
 
 - title: Committee Members
-  desc: Get started fast with installation and theme setup instructions
+  desc: 
   icon: users
   doc: committee-members-1
+  mv_description: ކޮމިޓީގެ މެމްބަރުން 
 
 - title: Committee Functions & Powers
-  desc: Lean about all the theme options, features and how to use them
+  desc: 
   icon: cog
   doc: committee-functions-1
+  mv_description:  ކޮމިޓީގެ މަސްއޫލިއްޔަތުތަކާއި ބާރުތައް
 
 - title: Committee Meetings
-  desc: Get help or tailor the theme to your specific requirements
+  desc: 
   icon: comments
   doc: committee-meetings-1
+  mv_description:  ކޮމިޓީގެ ބައްދަލުވުންތައް
   
 - title: Planning Committee Programs
-  desc: Get started fast with installation and theme setup instructions
+  desc: 
   icon: calendar
   doc: planning-programmes-1
+  mv_description:  ކޮމިޓީގެ ޕްރޮގްރާމްތައް ރާވައި ތަހުގީގުތައް ހިންގުން ްގުން 
 
 - title: Committee Resources
-  desc: Lean about all the theme options, features and how to use them
+  desc: 
   icon: bookmark
   doc: committee-resources-1
+  mv_description:  ކޮމިޓީ ވަސީލަތްތައް 
 
 - title: Appendix
-  desc: Get help or tailor the theme to your specific requirements
+  desc: 
   icon: info
   doc: appendix-1
+  mv_description: ޖަދުވަލު
   
 
