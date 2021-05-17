@@ -4,8 +4,11 @@ left:
   - title: Home
     url: /
 
-  - title: Guideline
+  - title: Guideline - English
     url: /en/introduction-1/
+    
+  - title: Guideline - Dhivehi
+    url: /mv/introduction-1/
 
 #  - title: Blog
 #    url: /blog/
