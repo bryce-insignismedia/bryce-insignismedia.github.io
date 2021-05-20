@@ -1,6 +1,6 @@
 ---
-title: Agreeing Reports, Publication & Follow-up
-subtitle: Understanding how to use the committee guidance for the Maldives Parliament
+title: ރިޕޯޓުތަކަށް އެއްބަސްވުން، ޝާއިއުކުރުން އަދި ފޮލޯ އަޕް
+subtitle: 
 tags: 
 author: bryce
 ---

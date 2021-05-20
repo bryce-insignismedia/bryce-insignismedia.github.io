@@ -1,6 +1,6 @@
 ---
-title: Responsibilities of the chairperson & commitee members
-subtitle: Understanding how to use the committee guidance for the Maldives Parliament
+title: ކޮމިޓީގެ މުގައްރިރުންނާއި މެމްބަރުންގެ މަސްއޫލިއްޔަތުތައް
+subtitle:
 tags: 
 author: bryce
 ---

@@ -1,6 +1,6 @@
 ---
-title: Other Staff Resources, Expenses & Training
-subtitle: Understanding how to use the committee guidance for the Maldives Parliament
+title: މުއައްޒަފުންގެ އެހެނިހެން ހަރަދުތައް، ތަމްރީނުތައް އަދި ވަސީލަތްތައް
+subtitle: 
 tags: 
 author: bryce
 ---

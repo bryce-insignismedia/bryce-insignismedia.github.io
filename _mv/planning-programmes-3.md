@@ -1,6 +1,6 @@
 ---
-title: Scrutiny, Government Accountability & Appointments
-subtitle: Understanding how to use the committee guidance for the Maldives Parliament
+title: ސަރުކާރު ޖަވާބުދާރީކުރުން، ފާރަވެރިވެ ބެލުން އަދި މަގާމުތަކަށް މީހުން އައްޔަނުކުރުން.
+subtitle: 
 tags: 
 author: bryce
 ---

@@ -1,6 +1,6 @@
 ---
-title: Procedures & Record Keeping
-subtitle: Understanding how to use the committee guidance for the Maldives Parliament
+title: އިޖުރާތްތަކާއި ނިންމުންތަކުގެ ރިކޯޑުތައް
+subtitle: 
 tags: 
 author: bryce
 ---
