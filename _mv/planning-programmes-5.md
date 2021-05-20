@@ -1,5 +1,5 @@
 ---
-title: Evidence Gathering
+title: ހެކި ހޯދުން
 subtitle: Understanding how to use the committee guidance for the Maldives Parliament
 tags: 
 author: bryce

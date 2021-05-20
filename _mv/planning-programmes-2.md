@@ -1,6 +1,6 @@
 ---
-title: Objective Setting & Effectiveness
-subtitle: Understanding how to use the committee guidance for the Maldives Parliament
+title: މަގްސަދު ކަނޑައެޅުމާއި ކާމިޔާބު މިންކުރުން
+subtitle: 
 tags: 
 author: bryce
 ---

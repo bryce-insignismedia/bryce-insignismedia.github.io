@@ -1,6 +1,6 @@
 ---
-title: Time, Location & Purpose of Meetings
-subtitle: Understanding how to use the committee guidance for the Maldives Parliament
+title: ބައްދަލުވުންތަކުގެ ވަގުތު، ތަން އަދި މަގްސަދު
+subtitle:
 tags: featured
 author: bryce
 ---

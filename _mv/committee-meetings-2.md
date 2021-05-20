@@ -1,6 +1,6 @@
 ---
-title: Agenda, Quorum & Attendance
-subtitle: Understanding how to use the committee guidance for the Maldives Parliament
+title: އެގެންޑާ، ކޯރަމް އަދި ހާޒިރި
+subtitle: 
 tags: 
 author: bryce
 ---

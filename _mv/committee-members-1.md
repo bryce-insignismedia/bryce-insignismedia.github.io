@@ -1,6 +1,6 @@
 ---
-title: Appointment, First Meeting & Election of Chairpersons 
-subtitle: Understanding how to use the committee guidance for the Maldives Parliament
+title: މެމްބަރުން އައްޔަންކުރުން، ފުރަތަމަ ޖަލްސާ އަދި މުގައްރިރުން އިންތިހާބު ކުރުން
+subtitle: 
 tags: 
 author: bryce
 ---

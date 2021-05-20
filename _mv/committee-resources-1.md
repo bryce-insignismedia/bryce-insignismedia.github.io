@@ -1,6 +1,6 @@
 ---
-title: Committee Staff
-subtitle: Understanding how to use the committee guidance for the Maldives Parliament
+title: ކޮމިޓީގެ މުއައްޒަފުން
+subtitle: 
 tags: 
 author: bryce
 ---

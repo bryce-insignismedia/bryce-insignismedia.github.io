@@ -1,6 +1,6 @@
 ---
-title: List of committees of the Majlis and their roles
-subtitle: Understanding how to use the committee guidance for the Maldives Parliament
+title: މަޖިލީހުގެ ކޮމިޓީތަކާއި ޒިންމާތައް
+subtitle:
 tags: 
 author: bryce
 ---
