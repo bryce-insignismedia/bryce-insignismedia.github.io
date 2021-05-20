@@ -30,6 +30,20 @@ $article-meta-color:                             $global-muted-color !default;
     @if(mixin-exists(hook-article)) {@include hook-article();}
 }
 
+.mv-article>div>div>p, .mv-article>.article-content>p, .mv-article>.article-content>ol, .mv-article>.article-content>ul{
+    font-family: Faruma;
+}
+.mv-sidebar{
+    font-family: AWaheed;
+}
+.mv-article>div>h1, 
+.mv-article>.article-content>h1, 
+.mv-article>.article-content>h2, 
+.mv-article>.article-content>h3, 
+.mv-article>.article-content>h4, 
+.mv-article>.article-content>h5{
+    font-family: AWaheed;
+}
 /*
  * Micro clearfix
  */

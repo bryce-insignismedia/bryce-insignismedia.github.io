@@ -5,7 +5,7 @@ tags:
 author: bryce
 ---
 
-<<h3><span>Agreeing reports</span></h3>
+<h3><span>Agreeing reports</span></h3>
 <ol>
 <li aria-level="2"><span>Committee reports are usually drafted by the clerk, or another member of the staff team, on behalf of the chairperson.&nbsp; The chairperson will usually aim for the report to reflect the consensus on the committee, or (if there are differing views which cannot be reconciled) the majority view.</span></li>
 <li aria-level="2"><span>Before the report is drafted, it may be helpful for the committee to meet to discuss its conclusions and potential recommendations.&nbsp; The clerk may draft a &ldquo;heads of report&rdquo; document to aid this discussion, outlining the issues to be covered, and perhaps setting out draft recommendations or identifying alternative options.&nbsp;</span></li>
