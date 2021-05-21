@@ -55,3 +55,17 @@
 	font-weight: 700;
 	src: local(".SFNSText-BoldItalic"), local(".HelveticaNeueDeskInterface-BoldItalic"), local(".LucidaGrandeUI"), local("Segoe UI Bold Italic"), local("Ubuntu Bold Italic"), local("Roboto-BoldItalic"), local("DroidSans-Bold"), local("Tahoma Bold");
 }
+
+@font-face {
+  font-family: AWaheed;
+  //font-style: normal;
+  //font-weight: 700;
+  src: url(../../uploads/fonts/A_Waheed.otf);
+}
+
+@font-face {
+  font-family: Faruma;
+  //font-style: normal;
+  //font-weight: 700;
+  src: url(../../uploads/fonts/Faruma.otf);
+}

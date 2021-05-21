@@ -1,0 +1,61 @@
+/*
+Error: Undefined variable: "$global-large-margin".
+        on line 15 of /home/ubuntu/environment/bryce-insignismedia.github.io/_sass/uikit/components/article.scss
+
+10: 
+11: 
+12: // Variables
+13: // ========================================================================
+14: 
+15: $article-margin-top:                             $global-large-margin !default;
+16: 
+17: $article-title-font-size:                        $global-xxlarge-font-size !default;
+18: $article-title-line-height:                      1.2 !default;
+19: 
+20: $article-meta-font-size:                         $global-small-font-size !default;
+
+Backtrace:
+/home/ubuntu/environment/bryce-insignismedia.github.io/_sass/uikit/components/article.scss:15
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/script/tree/variable.rb:49:in `_perform'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/script/tree/node.rb:50:in `perform'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:478:in `visit_variable'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:36:in `visit'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:158:in `block in visit'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/stack.rb:79:in `block in with_base'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/stack.rb:135:in `with_frame'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/stack.rb:79:in `with_base'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:158:in `visit'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:52:in `block in visit_children'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:52:in `map'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:52:in `visit_children'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:167:in `block in visit_children'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:179:in `with_environment'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:166:in `visit_children'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:36:in `block in visit'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:186:in `visit_root'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:36:in `visit'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:157:in `visit'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:10:in `visit'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/tree/root_node.rb:36:in `css_tree'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/tree/root_node.rb:29:in `render_with_sourcemap'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/engine.rb:389:in `_render_with_sourcemap'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/engine.rb:307:in `render_with_sourcemap'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/plugin/compiler.rb:462:in `update_stylesheet'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/plugin/compiler.rb:215:in `block in update_stylesheets'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/plugin/compiler.rb:209:in `each'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/plugin/compiler.rb:209:in `update_stylesheets'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/plugin.rb:82:in `update_stylesheets'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/exec/sass_scss.rb:338:in `watch_or_update'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/exec/sass_scss.rb:51:in `process_result'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/exec/base.rb:50:in `parse'
+/home/ubuntu/gems/gems/sass-3.7.4/lib/sass/exec/base.rb:18:in `parse!'
+/home/ubuntu/gems/gems/sass-3.7.4/bin/scss:13:in `<top (required)>'
+/home/ubuntu/gems/bin/scss:23:in `load'
+/home/ubuntu/gems/bin/scss:23:in `<main>'
+/home/ubuntu/gems/bin/ruby_executable_hooks:24:in `eval'
+/home/ubuntu/gems/bin/ruby_executable_hooks:24:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Undefined variable: \"$global-large-margin\".\A         on line 15 of /home/ubuntu/environment/bryce-insignismedia.github.io/_sass/uikit/components/article.scss\A \A 10: \A 11: \A 12: // Variables\A 13: // ========================================================================\A 14: \A 15: $article-margin-top:                             $global-large-margin !default;\A 16: \A 17: $article-title-font-size:                        $global-xxlarge-font-size !default;\A 18: $article-title-line-height:                      1.2 !default;\A 19: \A 20: $article-meta-font-size:                         $global-small-font-size !default;"; }
