@@ -34,7 +34,7 @@ $article-meta-color:                             $global-muted-color !default;
     font-family: Faruma;
 }
 .mv-sidebar{
-    font-family: AWaheed;
+    font-family: Faruma;
 }
 .mv-article>div>h1, 
 .mv-article>.article-content>h1, 
@@ -42,8 +42,13 @@ $article-meta-color:                             $global-muted-color !default;
 .mv-article>.article-content>h3, 
 .mv-article>.article-content>h4, 
 .mv-article>.article-content>h5{
-    font-family: AWaheed;
+    font-family: Faruma;
 }
+
+.mv-article>.article-content{
+    font-size: 18px;
+}
+
 /*
  * Micro clearfix
  */
